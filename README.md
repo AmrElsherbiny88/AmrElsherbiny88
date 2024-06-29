@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrElsherbiny88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmrElsherbiny88&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -63,7 +63,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmrElsherbiny88&theme=onedark)](https://github.com/AmrElsherbiny88/github-profile-trophy)
+ <div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmrElsherbiny88&theme=dracula"  />
+</div>
+
 
 ###
 
