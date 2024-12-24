@@ -88,9 +88,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/AmrElsherbiny88">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrElsherbiny88&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages"  width="100%" />
-  </a>
+
   <a href="https://github.com/AmrElsherbiny88">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrElsherbiny88&theme=dark" alt="GitHub Streak"  width="50%"/>
   </a>
