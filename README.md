@@ -1,4 +1,4 @@
-<h2 align="left">My name is Amr Elsherbiny and I'm a FrontEnd Developer, from Egypt Iam 19 years old</h2>
+<h2 align="left">My name is Amr Elsherbiny and I'm a FrontEnd Developer, from Egypt</h2>
 
 ###
 
