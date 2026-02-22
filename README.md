@@ -4,7 +4,11 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=AmrElsherbiny88&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=25" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmrElsherbiny88" height="150" alt="languages graph"  />
+ <img 
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmrElsherbiny88&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&card_width=420" 
+  height="170" 
+  alt="languages graph" 
+/>
 </div>
 
 ###
