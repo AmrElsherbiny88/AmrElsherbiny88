@@ -4,8 +4,9 @@
 <div align="left">
 
 <img 
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmrElsherbiny88&layout=normal&langs_count=20&theme=tokyonight&hide_border=true&card_width=500" 
-  height="300" 
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmrElsherbiny88&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&card_width=500" 
+  height="220" 
+  alt="languages graph" 
 />
 </div>
 <div align="left">
