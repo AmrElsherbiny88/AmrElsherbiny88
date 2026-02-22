@@ -1,13 +1,15 @@
 <h2 align="left">My name is Amr Elsherbiny and I'm a Software Engineer, from Egypt</h2>
 
 ###
-
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=AmrElsherbiny88&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=25" height="150" alt="streak graph" /> <br>
+
 <img 
   src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmrElsherbiny88&layout=normal&langs_count=20&theme=tokyonight&hide_border=true&card_width=500" 
   height="300" 
 />
+</div>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=AmrElsherbiny88&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=25" height="150" alt="streak graph" /> <br>
 </div>
 
 ###
