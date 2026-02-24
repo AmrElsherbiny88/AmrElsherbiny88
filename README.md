@@ -92,17 +92,7 @@
 
 <br clear="both">
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmrElsherbiny88/AmrElsherbiny88/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmrElsherbiny88/AmrElsherbiny88/pcman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmrElsherbiny88/AmrElsherbiny88/pacman/pacman-contribution-graph.svg">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmrElsherbiny88/AmrElsherbiny88/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmrElsherbiny88/AmrElsherbiny88/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmrElsherbiny88/AmrElsherbiny88/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
